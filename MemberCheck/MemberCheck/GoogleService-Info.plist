@@ -3,19 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>46485095119-9tdt4b4cjk9ug68t7o5t6bs2i20s2l5g.apps.googleusercontent.com</string>
+	<string>--</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.46485095119-9tdt4b4cjk9ug68t7o5t6bs2i20s2l5g</string>
+	<string>--</string>
 	<key>API_KEY</key>
-	<string>AIzaSyB72GyX8MxYo_o-vPL7zQ1zVSrHSZO1rMc</string>
+	<string>--</string>
 	<key>GCM_SENDER_ID</key>
 	<string>46485095119</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>jp.co.yonex-12345-.MemberCheck</string>
+	<string>--</string>
 	<key>PROJECT_ID</key>
-	<string>membercheck-50267</string>
+	<string>-</string>
 	<key>STORAGE_BUCKET</key>
 	<string>membercheck-50267.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
@@ -29,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:46485095119:ios:3a1f3b80d07b13e2c16dba</string>
+	<string>--</string>
 </dict>
 </plist>
